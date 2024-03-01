@@ -1,0 +1,4 @@
+https://device.harmonyos.com/cn/docs/documentation/guide/create_project-0000001072200151
+https://developer.huawei.com/consumer/cn/training/course/video/C101639987816176315
+
+https://www.openharmony.cn/docs/zh-cn/overview
